@@ -8,7 +8,7 @@ Actualmente existen múltiples editores de texto en los cuales se puede editar c
 Después de esta curva de aprendizaje, recomiendo Sublime Text, ya que no requerie una memorización de comandos tan extensa como lo puede llegar a ser en VIM. Es mucho más liviano que Rstudio (obviamente por que es un editor de texto y no un *IDE*) y particularmente la forma en la que realiza la depuración de código es mucho más limpia visualmente que Atom por ejemplo. Finalmente, la depuración del código se basa en la experiencia personal, el gusto y la comodidad que sienta cada uno en un editor particular. Invito a los lectores de este proyecto a provar muchos más editores enfocados a facilitar la programación estadística y exponer sus puntos de vista. La configuración que presento a continuación esta enfocada principalmente a la conectividad desde Sublime Text con R, Python y la terminal de Windows.
 
 
-# 1. Descargar del programa
+# Descarga del programa
 
 
 
