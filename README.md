@@ -36,10 +36,45 @@ Este paquete facilitara la conexión entre el editor y la terminal abierta.
 
 Una vez instalados los paquetes `Terminus` y `SendCode`, vamos a personalizar nuestro ambiente para que se vuelva un IDE cuando lo necesitemos. Para ello dirijase a `Preferences -> Key Bindings` y en en la parte lateral derecha coloque la siguiente configuracion:
 
-<img width="600px" src="personalizacion.png"></img>
+<img src="personalizacion.PNG" style="vertical-align:middle"></img>
 
 
+A continuación les dejo la configuración:
 
+
+```json
+[
+    { 
+        "keys": ["ctrl+alt+t"], "command": "terminus_open", "args": {
+            "cwd": "${file_path:${folder}}",
+            "post_window_hooks": [
+                    ["carry_file_to_pane", {"direction": "right"}]
+                ]
+        }
+    },
+        { 
+        "keys": ["ctrl+alt+p"], "command": "terminus_open", "args": {
+            "cmd": "ipython",
+            "cwd": "${file_path:${folder}}",
+            "post_window_hooks": [
+                    ["carry_file_to_pane", {"direction": "right"}]
+                ]
+        }
+    },
+    { 
+        "keys": ["ctrl+alt+r"], "command": "terminus_open", "args": {
+            "cmd": "radian",
+            "cwd": "${file_path:${folder}}",
+            "post_window_hooks": [
+                    ["carry_file_to_pane", {"direction": "right"}]
+                ]
+        }
+    },
+    {"keys": ["ctrl+w"], "command": "terminus_close", "context": [{ "key": "terminus_view"}]},
+    { "keys": ["alt+q"], "command": "wrap_lines_plus", "args": {"width": 80, "word_wrap": "auto"} },
+    { "keys": ["ctrl+m"], "command": "insert", "args": {"characters": " %>% "}}
+]
+```
 
 
 
