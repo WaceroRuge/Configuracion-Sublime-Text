@@ -34,9 +34,11 @@ Este paquete facilitara la conexión entre el editor y la terminal abierta.
 
 # Personalización
 
-Una vez instalados los paquetes `Terminus` y `SendCode`, vamos a personalizar nuestro ambiente para que se vuelva un IDE cuando lo necesitemos. 
+Una vez instalados los paquetes `Terminus` y `SendCode`, vamos a personalizar nuestro ambiente para que se vuelva un IDE cuando lo necesitemos. Para ello dirijase a `Preferences -> Key Bindings` y en en la parte lateral derecha coloque la siguiente configuracion:
 
-<img src="personalizacion.png"></img>
+<img width="600px" src="personalizacion.png"></img>
+
+
 
 
 
