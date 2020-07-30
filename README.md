@@ -42,7 +42,7 @@ Una vez instalados los paquetes `Terminus` y `SendCode`, vamos a personalizar nu
 A continuación les dejo la configuración:
 
 
-```yaml
+```javascript
 [
     { 
         "keys": ["ctrl+alt+t"], "command": "terminus_open", "args": {
