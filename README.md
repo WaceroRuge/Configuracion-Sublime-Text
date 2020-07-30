@@ -35,7 +35,8 @@ Este paquete facilitara la conexión entre el editor y la terminal abierta.
 # Personalización
 
 Una vez instalados los paquetes `Terminus` y `SendCode`, vamos a personalizar nuestro ambiente para que se vuelva un IDE cuando lo necesitemos. 
-![personalizacion](https://gitlab.com/WaceroRuge/sublime-text-configuracion/-/blob/master/personalizacion.PNG)
+
+<img src="personalizacion.png"></img>
 
 
 
