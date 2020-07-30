@@ -12,8 +12,8 @@ Después de esta curva de aprendizaje, recomiendo Sublime Text, ya que no requer
 
 1. El instalador se encuentra disponible en la página del editor [Sublime Text](https://www.sublimetext.com/3). Asegurese de descargar la versión que corresponda a su plataforma Windows/Linux/OSX.
 2. Ejecute el instalador siguiendo los pasos que el mismo le va indicando. 
-3. Abra la paleta de comandos. En Windows: `ctrl+shif+p`  y en Linux: `cmd+shift+p`.
-4. Escriba `Install Package Control` y presiones `enter`
+3. Abra la paleta de comandos. En Windows: <kbd>ctrl+shif+p</kbd>  y en Linux: <kbd>cmd+shift+p</kbd>.
+4. Escriba `Install Package Control` y presiones <kbd>enter</kbd>
 
 Hasta aca, Sublime text está listo para realizar instalación de paquetes de personalización mediante el uso del paquete de control.
 
@@ -23,7 +23,7 @@ La siguiente configuración esta orientada al desarrollo de código principalmen
 
 1. Instale el paquete [Terminus](https://github.com/randy3k/Terminus). Para ello realice lo siguiente:
     * Abra la paleta de comandos
-    * Digite `Install Package` y presione `enter`. Espere a que se despligue nuevamente la paleta de comandos y escriba `Terminus` y presiones `enter` nuevamente.
+    * Digite `Install Package` y presione <kbd>enter</kbd>. Espere a que se despligue nuevamente la paleta de comandos y escriba `Terminus` y presiones <kbd>enter</kbd> nuevamente.
     * Las opciones de personalización que se presentan en la pagina del paquete son supremamente útiles. En esta configuración se usan algunas de ellas en los siguiente pasos.
 
 Este paquete permitira que se desplieguen dentro del mismo editor consolas de la terminal, iTerm, ConEmu, Cmder, Tmux, Terminus; R (RStudio), Julia y  IPython.
