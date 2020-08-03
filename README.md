@@ -32,7 +32,7 @@ Este paquete permitira que se desplieguen dentro del mismo editor consolas de la
 
 Este paquete facilitara la conexión entre el editor y la terminal abierta.
 
-4. Instale el paquete [radian]
+3. Instale el paquete [radian]
 
 * Sugerencia: Instale el paquete [Origami](https://github.com/SublimeText/Origami)
 
