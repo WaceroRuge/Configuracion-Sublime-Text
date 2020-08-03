@@ -21,6 +21,8 @@ Hasta aca, Sublime text está listo para realizar instalación de paquetes de pe
 
 La siguiente configuración esta orientada al desarrollo de código principalmente en R y Python. Si se instalan nuevos paquetes asegurese de que no tengan conflictos con los paquetes instalados en la siguiente configuración.
 
+
+
 1. Instale el paquete [Terminus](https://github.com/randy3k/Terminus). Para ello realice lo siguiente:
     * Abra la paleta de comandos
     * Digite `Install Package` y presione <kbd>enter</kbd>. Espere a que se despligue nuevamente la paleta de comandos y escriba `Terminus` y presiones <kbd>enter</kbd> nuevamente.
@@ -80,8 +82,9 @@ A continuación les dejo la configuración:
 ]
 ```
 
+# Consideraciones 
 
-
+Si bien esta configuración esta más orientada a usuarios con sistema operativo `Windows`, se puede replicar los mismo pasos para `Linux/Mac Os X`. Sin embargo, no todas las personalizaciones que se presentan aca funcionarán de forma correcta. Invito a usuarios de estsos `SO` a que hagan sus aportes a este repositorio!!!!
 
 
 
