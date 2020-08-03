@@ -32,6 +32,10 @@ Este paquete permitira que se desplieguen dentro del mismo editor consolas de la
 
 Este paquete facilitara la conexión entre el editor y la terminal abierta.
 
+4. Instale el paquete [radian]
+
+* Sugerencia: Instale el paquete [Origami](https://github.com/SublimeText/Origami)
+
 # Personalización
 
 Una vez instalados los paquetes `Terminus` y `SendCode`, vamos a personalizar nuestro ambiente para que se vuelva un IDE cuando lo necesitemos. Para ello dirijase a `Preferences -> Key Bindings` y en en la parte lateral derecha coloque la siguiente configuracion:
