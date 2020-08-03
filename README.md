@@ -34,13 +34,11 @@ Este paquete facilitara la conexión entre el editor y la terminal abierta.
 
 3. Instale el paquete [radian](https://github.com/randy3k/radian). Esta instalación la debe hacer siguiendo los pasos disponibles en la página del paquete, tenga en cuenta que e necesario tener instalada una versión de python (en la pagina sugieren miniconda en caso no tener una instalación previa).
 
-Este paquete provee una interfaz más amigable de R que se abre a través de la terminal. Es importa
-
-* Sugerencia: Instale el paquete [Origami](https://github.com/SublimeText/Origami). Este paquete le permitira partir en diferentes paneles a Sublime para que por ejemplo, en el lado izquierdo tenga el script que se encuentra trabajando y a la derecha la conexion a través de la terminal al programa que necesite.
+* **Sugerencia**: Instale el paquete [Origami](https://github.com/SublimeText/Origami). Este paquete le permitira partir en diferentes paneles a Sublime para que por ejemplo, en el lado izquierdo tenga el script que se encuentra trabajando y a la derecha la conexion a través de la terminal al programa que necesite.
 
 # Personalización
 
-Una vez instalados los paquetes `Terminus` y `SendCode`, vamos a personalizar nuestro ambiente para que se vuelva un IDE cuando lo necesitemos. Para ello dirijase a `Preferences -> Key Bindings` y en en la parte lateral derecha coloque la siguiente configuracion:
+Una vez instalados los paquetes anteriores, lo siguiente es personalizar nuestro ambiente para que se vuelva un IDE cuando lo necesitemos. Para ello dirijase a `Preferences -> Key Bindings` y en en la parte lateral derecha coloque la siguiente configuracion:
 
 <img src="personalizacion.PNG" style="vertical-align:middle"></img>
 
